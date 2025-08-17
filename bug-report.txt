@@ -1,0 +1,22 @@
+Descriere: Posibilitatea utilizatorului de a se loga
+
+Pre-conditii: Dispozitiv conectat la reteaua de alimentare, browser, conexiune la internet, utilizator existent
+Mediu de testare: “www.utest.com”
+Pasii de reproducere:
+Porneste computerul
+Conecteazate la internet
+Deschide browser-ul
+Tapeaza “www.utest.com” 
+Click “Enter”
+Click pe butonul “Log in“
+Tapeaza adresa e-mail
+Click pe butonul “Continue“
+Rezultatul asteptat: Utilizatorul se poate loga
+Rezultatul actual: Utilizatorul nu se poate loga
+Incercari de a repeta: 0
+Severity: inalta
+Prioritatea: inalta
+Atasament: 9566.jpg
+Numele QA: Maxim
+Numele programator: Dorin Chirtoaca
+Data si ora: 17.08.2025, 16:30
